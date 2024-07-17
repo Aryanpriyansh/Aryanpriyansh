@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi, I'm Aryan Priyansh Dwivedi! I'm a passionate web developer and one of the co-founders of WebXfactor, where we deliver top-notch webpages to clients with a focus on quality and innovation.
+👋 Hi, I'm Aryan Priyansh Dwivedi! I'm a passionate web developer , where we deliver top-notch webpages to clients with a focus on quality and innovation.
 
 ### Skills and Expertise
 - **Languages**: JavaScript, HTML, CSS, C, Java
@@ -9,7 +9,7 @@
 - **Other Skills**: Web Project Management, Web Development, Web Design, Front-End Development, Project Management, Teamwork, Communication, Microsoft Office, Artificial Intelligence (AI), Machine Learning
 
 ### Projects and Experience
-- **[WebXfactor](https://www.linkedin.com/in/aryanpriyansh13)**: Co-founder of WebXfactor, where we specialize in creating custom web solutions for clients. We are launching our official website on July 27!
+- **[WebXfactor](https://www.linkedin.com/in/aryanpriyansh13)**:  where we specialize in creating custom web solutions for clients.
 - **[Bengaluru AI Summit 2024 - Event Website Development](link to repository)**: Developed an engaging website for the AI Summit 2024. The platform offers detailed event schedules, speaker profiles, and real-time updates to enhance the attendee experience. Dive into the world of AI and explore how we're transforming the digital landscape with cutting-edge technology.
 
 ### Education
