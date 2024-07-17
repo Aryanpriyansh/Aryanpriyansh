@@ -22,7 +22,7 @@
 - 🎮 Gaming
 
 ### Contact Information
-- 📧 Email: [aryanpriyansh9883@gmail.com](mailto:aryanpriyansh13@gmail.com)
+- 📧 Email: [aryanpriyansh13@gmail.com](mailto:aryanpriyansh13@gmail.com)
 - 💼 LinkedIn: [Aryan Priyansh](https://www.linkedin.com/in/aryanpriyansh13)
 
 Looking forward to connecting and collaborating on exciting projects!
