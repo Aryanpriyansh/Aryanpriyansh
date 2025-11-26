@@ -1,25 +1,26 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  
-  # 🌟 Aryan Priyansh Dwivedi 🌟
-  ### _Computer Science Student | Developer | Tech Explorer_
-  
-  ✨ Passionate about **Web Development** & **Machine Learning**  
-  🚀 Always curious, always learning  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+
+  # 🌟 **Aryan Priyansh Dwivedi**  
+  ### _Computer Science Student • Developer • Tech Explorer_
+
+  ✨ Passionate about **Web Development**, **Machine Learning**, and **Java Development**  
+  🚀 Always curious • Always learning • Always building  
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 **About Me**
 
-- 🌱 Currently diving deep into **Machine Learning, Java & React**  
-- 💻 Skilled in **Web Development** (React, JS, Node.js, Express)  
-- 💬 Ask me about **C, Python, Java, SQL & ML fundamentals**  
-- 📫 Contact: **aryanpriyansh13@gmail.com**  
+- 🌱 Currently exploring **Machine Learning**, **Java**, and **React Ecosystem**  
+- 💡 Skilled in **Web Dev**, **DSA basics**, and **software fundamentals**  
+- ⚙️ Love building clean, functional, and impactful applications  
+- 💬 Ask me about **C, Python, Java, SQL, ML basics**, or anything tech!  
+- 📫 Reach me at: **aryanpriyansh13@gmail.com**
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanpriyansh/" target="_blank">
@@ -32,26 +33,26 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,python,c,pandas,numpy,sklearn,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,python,c,git,pandas,numpy,sklearn,postman&perline=8" />
 </p>
 
 ---
 
-## 🎉 Fun Facts  
+## 🎉 **Fun Facts**
 
-- 🎯 I love solving **real-world problems** through code  
-- 🎵 I often code while listening to **lofi beats**  
-- ⚡ I probably spend more time debugging than coding 😅  
+- 🎯 I enjoy solving **real-life problems** through code  
+- 🎵 Most of my coding sessions run on **lofi beats**  
+- 🛠️ Debugging is my superpower (and my weakness 😅)  
+- 🚀 I aim to be a **full-stack + ML hybrid developer**  
 
 ---
 
 <div align="center">
-  
-  🔥 Thanks for stopping by! Let’s **build something amazing** together. 🚀  
-  <br/>
 
-  
+### 🔥 Thanks for visiting!  
+✨ Let’s collaborate and build something amazing together 🚀  
+
 </div>
