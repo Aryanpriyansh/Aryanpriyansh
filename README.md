@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
   # 🌟 **Aryan Priyansh Dwivedi**  
   ### _Computer Science Student • Developer • Tech Explorer_
@@ -7,6 +7,16 @@
   ✨ Passionate about **Web Development**, **Machine Learning**, and **Java Development**  
   🚀 Always curious • Always learning • Always building  
 </div>
+
+---
+
+## 📝 **Resume**
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
