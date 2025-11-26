@@ -49,7 +49,7 @@ You can ask me anything about:
 
 ## 🎉 **Fun Facts About Me**
 
-- 🎧 My coding fuel = **lofi beats + coffee**
+- 🎧 My coding fuel = **Music + Energy Drink**
 - 🔧 I spend more time debugging than coding (and I enjoy it 😄)
 - 🚀 Dreaming of becoming a **Full-Stack + ML Hybrid Developer**
 - 💡 I love solving **real-world problems with simple solutions**
